@@ -1,0 +1,20 @@
+
+#listadodeopciones{
+
+    display: flex;
+    justify-content: center;
+
+}
+#aprendo{
+
+    color: rgb(0, 183, 255);
+    text-decoration: none;
+    margin: 20px;
+
+}
+
+
+#aprendo:hover{
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
